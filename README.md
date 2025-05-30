@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="" alt="SHIVAAY-TXT-LEECH-BOT Logo">
+  <img src="https://files.catbox.moe/5csii6.jpg" alt="SHIVAAY-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  SHIVAAY TXT LEECH BOT
 </h1>
 
 ## Deploy Tutorial - [By Shivaay King )
@@ -11,7 +11,7 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Shivaay20005) So Don't Forgot To Give Credit
+💝 Credit Goes To [SHIVAAY](https://telegram.me/Shivaay20005) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
