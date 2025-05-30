@@ -26,7 +26,7 @@ bot = Client(
     "bot",
     api_id=API_ID,
     api_hash=API_HASH,
-    bot_token=BOT_TOKEN)
+    bot_token="7843459688:AAGCeQjdFqWGFrucHPRuV4XD-Uuj60WGoBU")
 
 
 @bot.on_message(filters.command(["start"]))
